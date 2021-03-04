@@ -1,0 +1,14 @@
+.content-box{
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  margin: 30px auto;
+}
+
+.educations-list{
+  margin-left: 40px;
+}
+ 
+p{
+  margin-bottom: 0;
+}
