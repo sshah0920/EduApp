@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/EduApp/static/css/main.9ff403b4.chunk.css",
+    "main.js": "/EduApp/static/js/main.f34e4517.chunk.js",
+    "main.js.map": "/EduApp/static/js/main.f34e4517.chunk.js.map",
+    "runtime-main.js": "/EduApp/static/js/runtime-main.c7c1ee21.js",
+    "runtime-main.js.map": "/EduApp/static/js/runtime-main.c7c1ee21.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/EduApp/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.c3dd4855.chunk.js": "/EduApp/static/js/2.c3dd4855.chunk.js",
+    "static/js/2.c3dd4855.chunk.js.map": "/EduApp/static/js/2.c3dd4855.chunk.js.map",
+    "index.html": "/EduApp/index.html",
+    "precache-manifest.e430f8f2dd649db977a94d92ff339699.js": "/EduApp/precache-manifest.e430f8f2dd649db977a94d92ff339699.js",
+    "service-worker.js": "/EduApp/service-worker.js",
+    "static/css/2.d9ad5f5c.chunk.css.map": "/EduApp/static/css/2.d9ad5f5c.chunk.css.map",
+    "static/css/main.9ff403b4.chunk.css.map": "/EduApp/static/css/main.9ff403b4.chunk.css.map",
+    "static/js/2.c3dd4855.chunk.js.LICENSE.txt": "/EduApp/static/js/2.c3dd4855.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c7c1ee21.js",
+    "static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.c3dd4855.chunk.js",
+    "static/css/main.9ff403b4.chunk.css",
+    "static/js/main.f34e4517.chunk.js"
+  ]
+}
