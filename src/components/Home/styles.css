@@ -1,7 +1,11 @@
-.App {
-  text-align: center;
+
+
+.App .home_title {
+  justify-content: center;
+  align-items: center;
 }
 
-.form-row{
-  justify-content: space-around;
+.App .home_label {
+  padding-left: 40%;
+  padding-top: 20px;
 }

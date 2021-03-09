@@ -4,7 +4,7 @@ import { useSelector } from 'react-redux';
 import { useLocation } from 'react-router-dom';
 import { selectEducations, selectName } from '../../app/userReducer';
 import EducationFormModal from './EductionForm';
-import './styles.css';
+import '../Educations/styles.css';
 const { Item } = ListGroup;
 const { Body, Title, Subtitle, Text } = Card;
 
