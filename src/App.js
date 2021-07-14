@@ -7,7 +7,7 @@ import routes from "./helper/constants";
 
 export default function App() {
   return (
-    <Container>
+
       <Router>
         <Switch>
           <Route exact path={routes.educations}>
@@ -18,6 +18,6 @@ export default function App() {
           </Route>
         </Switch>
       </Router>
-    </Container>
+
   );
 }

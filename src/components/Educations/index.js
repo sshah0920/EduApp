@@ -17,9 +17,9 @@ const Educations = () => {
     const params = new URLSearchParams(location.search);
     const queryName = params.get("name");
   return (
-    <div className="App">
-      <h1>Welcome to {userName || queryName}'s education page</h1>
-      <Button variant="primary" onClick={() => setShowEduModal(true)}>
+    <div className="NewEdu_App">
+      <h3>Welcome to {userName || queryName}'s Education Details</h3>
+      <Button  className="newEdu-btn" variant="primary" onClick={() => setShowEduModal(true)}>
         Add New Education
       </Button>
       <div className="content-box ">

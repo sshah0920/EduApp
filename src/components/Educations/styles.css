@@ -1,17 +1,53 @@
-.App{
-  justify-content: center;
-  align-items: center;
+.App .newEdu-btn {
+    margin-left: 350px;
+    margin-top: 50px;
 }
 
-.educations-list{
-  margin-left: 40px;
-}
- 
-p{
-  margin-bottom: 0;
+.NewEdu_App {
+    border: 1px solid grey;
+    position: absolute;
+    max-width: 55%;
+    max-height: 85% ;
+    border: 2px solid white;
+    border-radius: 12px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    display: block;
+    color: white;
+    overflow: scroll;
+    scrollbar-width: none;
 }
 
-.App .home_title {
-  text-align: center;
-  padding-top: 30%;
+.NewEdu_App::-webkit-scrollbar {
+    display: none;
+  }
+
+.educations-list {
+    color: black;
+    padding-top: 10px;
+}
+
+.content-box {
+    color: black;
+    padding: 10px 10px;
+}
+
+.NewEdu_App .newEdu-btn {
+    margin: 10px 30px;
+    color: gray;
+    background-color: white;
+}
+
+.NewEdu_App .newEdu-btn:hover  {
+    padding: 15px 40px;
+    transition: 0.4s ease-in-out;
+}
+
+.NewEdu_App h3 {
+    text-decoration: 1px solid white;
+    text-align: center;
+    padding-top: 20px ;
+    padding-left: 10px;
+    padding-right: 10px;
 }

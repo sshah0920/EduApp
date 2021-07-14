@@ -1,11 +1,52 @@
+*{
+  box-sizing: border-box;
+  margin:0px;
+  padding:0px;
+}
 
-
-.App .home_title {
+#root {
   justify-content: center;
   align-items: center;
+  background-color: #355C7D;
+  position: relative;
+  background-size: cover;
+  height: 100vh;
+}
+
+.App {
+  border: 1px solid grey;
+  position: absolute;
+  width: fit-content;
+  height: fit-content;
+  border: 2px solid white;
+  border-radius: 12px;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  display: block;
+  color: white;
+}
+
+.App h1 {
+  text-align: center;
+  padding: 20px 30px;
 }
 
 .App .home_label {
-  padding-left: 40%;
+  align-items: center;
+  padding-left: 290px;
   padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.App .btn {
+  margin-bottom: 20px;
+  color: gray;
+  background-color: white;
+}
+
+.App .btn:hover {
+  padding-left: 50px;
+  padding-right: 50px;
+  transition: 0.4s ease-in-out;
 }
