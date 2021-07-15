@@ -1,26 +1,25 @@
 {
   "files": {
-    "main.css": "/EduApp/static/css/main.ca0475c0.chunk.css",
-    "main.js": "/EduApp/static/js/main.9fd65df3.chunk.js",
-    "main.js.map": "/EduApp/static/js/main.9fd65df3.chunk.js.map",
+    "main.css": "/EduApp/static/css/main.bb26a261.chunk.css",
+    "main.js": "/EduApp/static/js/main.1fb1b060.chunk.js",
+    "main.js.map": "/EduApp/static/js/main.1fb1b060.chunk.js.map",
     "runtime-main.js": "/EduApp/static/js/runtime-main.c7c1ee21.js",
     "runtime-main.js.map": "/EduApp/static/js/runtime-main.c7c1ee21.js.map",
-    "static/css/2.d9ad5f5c.chunk.css": "/EduApp/static/css/2.d9ad5f5c.chunk.css",
-    "static/js/2.d3af5fb5.chunk.js": "/EduApp/static/js/2.d3af5fb5.chunk.js",
-    "static/js/2.d3af5fb5.chunk.js.map": "/EduApp/static/js/2.d3af5fb5.chunk.js.map",
+    "static/css/2.1cace5d8.chunk.css": "/EduApp/static/css/2.1cace5d8.chunk.css",
+    "static/js/2.7d9f0c91.chunk.js": "/EduApp/static/js/2.7d9f0c91.chunk.js",
+    "static/js/2.7d9f0c91.chunk.js.map": "/EduApp/static/js/2.7d9f0c91.chunk.js.map",
     "index.html": "/EduApp/index.html",
-    "precache-manifest.53fddd6ec244f10857546e0033a14836.js": "/EduApp/precache-manifest.53fddd6ec244f10857546e0033a14836.js",
+    "precache-manifest.42f89adea4f27001d04b311b146afa6e.js": "/EduApp/precache-manifest.42f89adea4f27001d04b311b146afa6e.js",
     "service-worker.js": "/EduApp/service-worker.js",
-    "static/css/2.d9ad5f5c.chunk.css.map": "/EduApp/static/css/2.d9ad5f5c.chunk.css.map",
-    "static/css/main.ca0475c0.chunk.css.map": "/EduApp/static/css/main.ca0475c0.chunk.css.map",
-    "static/js/2.d3af5fb5.chunk.js.LICENSE.txt": "/EduApp/static/js/2.d3af5fb5.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/EduApp/static/media/bg3.b0a02ac5.jpg"
+    "static/css/2.1cace5d8.chunk.css.map": "/EduApp/static/css/2.1cace5d8.chunk.css.map",
+    "static/css/main.bb26a261.chunk.css.map": "/EduApp/static/css/main.bb26a261.chunk.css.map",
+    "static/js/2.7d9f0c91.chunk.js.LICENSE.txt": "/EduApp/static/js/2.7d9f0c91.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.c7c1ee21.js",
-    "static/css/2.d9ad5f5c.chunk.css",
-    "static/js/2.d3af5fb5.chunk.js",
-    "static/css/main.ca0475c0.chunk.css",
-    "static/js/main.9fd65df3.chunk.js"
+    "static/css/2.1cace5d8.chunk.css",
+    "static/js/2.7d9f0c91.chunk.js",
+    "static/css/main.bb26a261.chunk.css",
+    "static/js/main.1fb1b060.chunk.js"
   ]
 }
